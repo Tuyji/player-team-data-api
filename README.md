@@ -94,7 +94,7 @@ Simple football player team data application.
 - `repository` — database communication;
 - `service` — business logic holder;
 - `controller` — rest api implementations;
-- `errorhandling` — custon error handling and exceptions;
+- `errorhandling` — custom error handling and exceptions;
 
 - `resources/` - Contains all the static resources, templates and property files.
 - `resources/application.properties` - It contains application-wide properties (server, proxy, url, database configrations) .
