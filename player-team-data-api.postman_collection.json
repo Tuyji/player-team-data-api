@@ -1,0 +1,91 @@
+{
+	"info": {
+		"_postman_id": "bb2e68c3-93ec-4191-8497-ead23e08b914",
+		"name": "player-team-data-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "createTeam",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": "localhost/8080/api/teams/create"
+			},
+			"response": []
+		},
+		{
+			"name": "getTeams",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		},
+		{
+			"name": "getTeamPlayers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		},
+		{
+			"name": "deleteTeam",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		},
+		{
+			"name": "createPlayer",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		},
+		{
+			"name": "getPlayers",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		},
+		{
+			"name": "getPlayerTeams",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		},
+		{
+			"name": "getPlayer",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		},
+		{
+			"name": "deletePlayer",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": ""
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
